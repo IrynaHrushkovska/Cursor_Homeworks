@@ -1,0 +1,9 @@
+body {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+.version {
+    color: #0B2239;
+    opacity: 0.30;
+    text-transform: uppercase;
+}
